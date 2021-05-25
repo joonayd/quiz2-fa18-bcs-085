@@ -1,0 +1,103 @@
+*{
+    padding: 5;
+    margin: 5;
+    overflow-x:visible;
+}
+body{
+    
+    background:silver;
+    padding: 250px;
+}
+
+#header-section{
+    display:flex;
+    justify-content: space-between;
+    padding: 50px;
+}
+
+#header-section .image img{
+    width: 250px;
+    border-radius: 100%;
+    
+}
+
+#header-section .detail h2{
+    font-size: 50px;
+    margin-top: 90px ;
+    margin-bottom: 20px;
+}
+
+#objectives{
+    text-align: center;
+    margin: 20px;
+    padding: 50px;
+    border: solid 4px black;
+}
+
+h1{
+    font-size: 50px;
+    margin: 10px;
+}
+
+p{
+    font-size: 25px;
+}
+
+#contact{
+    padding: 30px 30px;
+    border: solid 4px black;
+}
+
+}
+#sidebar{
+    width: 45%;
+    margin-right: 30px;
+}
+
+#edu-section{
+    width: 60%;
+}
+
+#education{
+    padding: 30px 30px;
+    border: solid 4px black;
+}
+       
+}
+#education p{
+    margin-bottom: 10px;
+}
+
+#divide{
+    display: flex;
+}
+#experience{
+    padding: 30px 30px;
+    border: solid 4px black;
+
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#experience ul{
+    margin-top: 15px;
+    font-size: 18px;
+    margin-left: 20px;
+}
+#experience ol{
+    margin-top: 15px;
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+#skills{
+    padding: 30px 30px;
+    border: solid 4px black;
+    margin-top: 30px;
+    
+}
+
+#skills ul{
+    margin-left: 20px;
+    font-size: 20px;
+}

@@ -1,1 +1,1 @@
-<?php require("./cv.html") ?>
+<?php require("./junaid.html") ?>      
